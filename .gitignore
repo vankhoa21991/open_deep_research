@@ -1,0 +1,45 @@
+# Build and Release Folders
+bin-debug/
+bin-release/
+[Oo]bj/
+[Bb]in/
+
+# Other files and folders
+.settings/
+
+# Executables
+*.swf
+*.air
+*.ipa
+*.apk
+
+# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
+# should NOT be excluded as they contain compiler settings and other important
+# information for Eclipse / Flash Builder.
+venv
+.env
+__pycache__
+.qodo
+wikipedia_db
+output
+qdrant_storage
+http:/
+data
+chroma_storage
+.vscode
+*.log
+GenAI_Agents
+agno
+awesome-llm-apps
+tmp
+linkedin-ghostwriter
+temp
+.gradio
+public
+chroma_db
+*.json
+brave-mcp-search
+*.mp3
+__pycache__
+.langgraph_api
+*.egg-info
